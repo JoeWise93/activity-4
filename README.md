@@ -1,7 +1,7 @@
 This repository contains the activity 4 exercise of our data stewardship course as completed by Joseph Wiseman.
 
 How to cite:
-Please site this compendium as - Joseph Wiseman (2025) 
+Please site this compendium as - Wiseman, J. (2025, March 15). Github. Retrieved March 15, 2025, from https://github.com/JoeWise93/activity-4
 
 Content: 
 This compendium contains data and code associated with the provided materials for the assignment. It consists of the dataset as well as runtime and install information to be used in the construction of an R. binder. 
