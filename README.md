@@ -11,3 +11,4 @@ Please follow the provided binder link or visit my repository on Github at - htt
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JoeWise93/activity-4/master?urlpath=%2Fdoc%2Ftree%2Fwordfish.R)
 
+Cite the code: [![DOI](https://zenodo.org/badge/947502640.svg)](https://doi.org/10.5281/zenodo.15127304)
